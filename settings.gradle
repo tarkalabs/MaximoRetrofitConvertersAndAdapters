@@ -1,1 +1,1 @@
-include ':example', ':RxErrorAdapter', ':RetrofitConverters'
+include ':example', ':RxTransformationAdapter', ':RetrofitConverters'
